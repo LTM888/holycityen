@@ -97,11 +97,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-logo {
+  
   margin: 20px;
 }
 
 #hero .hero-logo img {
   max-width: 100%;
+  margin-top: -200px;
+  
 }
 
 #hero .hero-container {
